@@ -1,4 +1,4 @@
-__pycache__/
 .env
-*.pyc
-.streamlit/
+*.env
+saved_looks.json
+__pycache__/
